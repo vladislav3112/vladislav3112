@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+    I’m currently intrested in NLP and CV
+🌱 I’m currently learning more about image segmentation and autoencoders
+📫 How to reach me: 
+- email: dyushakolesov@mail.ru 
+- telegram: @vladislav_kol  
+💬 Additional links:
+- kaggle: https://www.kaggle.com/vladislavkolesov  
 <!--
 **vladislav3112/vladislav3112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
