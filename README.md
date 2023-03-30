@@ -1,6 +1,6 @@
 ### Hi there 👋
     I’m currently intrested in NLP and CV
-🌱 I’m currently learning more about image segmentation and autoencoders
+🌱 I’m currently learning more about image segmentation and autoencoders  
 📫 How to reach me: 
 - email: dyushakolesov@mail.ru 
 - telegram: @vladislav_kol  
