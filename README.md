@@ -1,6 +1,6 @@
 ### Hi there 👋
     I’m currently intrested in NLP
-🌱 I’m currently learning more about LLMs (RAG, different prompting techniques, conversational models) 
+🌱 I’m currently learning more about LLMs (RAG, different prompting techniques, conversational models)   
 📫 How to reach me: 
 - email: dyushakolesov@mail.ru 
 - telegram: @vladislav_kol  
